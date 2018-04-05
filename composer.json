@@ -1,0 +1,21 @@
+{
+	"name": "sellastica/dev-nulls",
+	"homepage": "https://github.com/sellastica/dev-nulls",
+	"license": "proprietary",
+	"authors": [
+		{
+			"name": "Tomáš Krejčí",
+			"homepage": "http://www.sellastica.com"
+		}
+	],
+	"require": {
+		"php": ">=7.1"
+	},
+	"require-dev": {
+	},
+	"autoload": {
+		"psr-4": {
+			"Sellastica\\DevNulls\\": "src/"
+		}
+	}
+}
